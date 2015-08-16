@@ -1,1 +1,3 @@
-Happy programming with Python!! Examples, tools and Others.
+Happy programming with Python!! 
+Include:
+Examples, tools@work etc.
